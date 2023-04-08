@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jhonatan Ruiz</h1>
 <h3 align="center">Full Stack Developer. I participate in creating high-performance innovative products and solutions.</h3>
 
-- 🔭 I’m currently working on **telecomunications company also as a freelance**
+- 🔭 I’m currently working on **telecomunications company**
 
 - 🌱 I’m currently learning Mobile Development **.NET MAUI, Ionic**
 
