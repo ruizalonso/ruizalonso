@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **telecomunications company**
 
-- 🌱 I’m currently learning Mobile Development **.NET MAUI, Ionic**
+- 🌱 I’m currently learning Cloud Computing
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-ruizalonso.vercel.app/](https://portfolio-ruizalonso.vercel.app/)
 
-- 💬 Ask me about **.NET C# & JavaScript**
+- 💬 Ask me about **JavaScript | Next.js | React.js | .NET C#**
 
 <h3 align="left">Connect with me:</h3>
 <hr>
